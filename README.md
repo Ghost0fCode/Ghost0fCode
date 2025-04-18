@@ -37,5 +37,6 @@
 ## 📫 Contact
 Want to collab, hire, or challenge me with a puzzle?  
 📧 `ghostofcode.dev@gmail.com`
+🔗 [LinkedIn](https://www.linkedin.com/in/ghost0fcode/)
 
 <sub>(My real name hides in the shadows — only code speaks.)</sub>

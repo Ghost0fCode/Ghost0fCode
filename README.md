@@ -1,8 +1,4 @@
-# 👻 Ghost0fCode
-
-📜 **License**: [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
-🚫 This code is protected. You **may not** use, modify, or redistribute it for **commercial purposes**, nor create derivative works without **explicit permission**.  
-💼 For inquiries, email: **ghostofcode.dev@gmail.com**
+# Hi there 👋, I'm Nilesh aka *Ghost0fCode👻*
 
 ---
 
@@ -36,7 +32,6 @@
 
 ## 📫 Contact
 Want to collab, hire, or challenge me with a puzzle?  
-📧 `ghostofcode.dev@gmail.com`
-🔗 [LinkedIn](https://www.linkedin.com/in/ghost0fcode/)
+Contact me by [email](ghostofcode.dev@gmail.com), [LinkedIn](https://www.linkedin.com/in/ghost0fcode/)
 
 <sub>(My real name hides in the shadows — only code speaks.)</sub>
